@@ -1,6 +1,5 @@
 {
-  "name": "tutorial_three_parametric",
-  "homepage": "https://polnischfrosch.github.io/threejs_parametric/",
+  "name": "Noise displacement mesh",
   "private": true,
   "version": "0.0.0",
   "type": "module",
