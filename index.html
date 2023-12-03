@@ -1,12 +1,21 @@
 <!doctype html>
 <html lang="en">
-  <head>
+<head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Creative Computing 2023</title>
-  </head>
-  <body>
+    <style>
+        #top-left-text {
+            position: absolute;
+            top: 5px;      
+            left: 25px;     
+            z-index: 10;    
+        }
+    </style>
+</head>
+<body>
+    <h1 id="top-left-text">Noise displaced mesh</h1>
     <div id="threejs-container"></div>
     <script type="module" src="/main.js"></script>
-  </body>
+</body>
 </html>

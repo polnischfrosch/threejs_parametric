@@ -10,6 +10,10 @@ body {
   padding: 0;
   width: 100vw;
   height: 100vh;
-  background: linear-gradient(white, rgb(0, 55, 255));
+  background: #f0f0f0; 
   overflow: hidden;
+}
+#top-left-text {
+  font-family: 'Courier New', monospace;
+  color: #2b2b2b;
 }

@@ -1,0 +1,2 @@
+Typography:	#2b2b2b
+Background:	#f0f0f0
